@@ -1,0 +1,103 @@
+{
+	"events": [
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好了啦別吵了我要去打球"
+		},
+		{
+			"character": "character-1715086914.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "掰"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "在經過幾個月跟同學開心玩樂，以及準備備審、面試的時光之後\n文朔成功申請上了心中的第一志願「交大資工」\n某次與朋友吃飯的時候，意外得知之前一個國中班上很好的女同學曉杅，也靠著分科上了交大資工。\n得知消息的文朔一開始很驚訝，畢竟曉杅之前有問過文朔，最後申請上了什麼學校\n不過文朔並沒有把這當作一回事，因為\n交通大學是一所積極新創、學科齊全、學術實力雄厚、辦學特色鮮明\n在國際上具有重要影響力與競爭力的大學，在多個學術領域具有非常前瞻的科技實力，擁有世界一流的實驗室與師資力量，各種排名均位於全球前列\n所以曉杅會把交大資工填到前面志願似乎也是合情合理。\n在這期間，文朔也經常跟學妹聯絡，關心她的課業情況\n不過在最近的一次模考，學妹的考試成績不盡理想\n學妹下定決心想跟文朔求助讀書的方法，於是約了文朔吃飯"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "學長，恭喜你上了交大資工！"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "謝啦，怎麼突然約我吃飯阿"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒有啦，因為太久沒見到你，就有點想看看你"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好啦，別說這些有的沒的，話說你最近一次模考考得怎麼樣阿"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "恩..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "恩？"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "齁油，就考得有點爛啦嗚嗚\n學長，可以請你當一下ㄋ我的家教嗎，我真的很想把學測考好"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "當一下學妹的家教好了",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715090268.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "算了學妹就是過去式，我要在大學另闢戰場",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715090258.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715089652.json",
+		"name": "main-1-0-3.json"
+	}
+}
