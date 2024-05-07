@@ -84,6 +84,13 @@ config/name="test3"
 run/main_scene="res://Node2D.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1080
+window/size/height=1920
+window/handheld/orientation="portrait"
+window/stretch/mode="2d"
+
 [editor_plugins]
 
 enabled=PoolStringArray( "res://addons/dialogic/plugin.cfg" )

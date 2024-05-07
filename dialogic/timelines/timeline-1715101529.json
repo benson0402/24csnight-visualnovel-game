@@ -1,0 +1,31 @@
+{
+	"events": [
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(一臉難過)好吧，既然你猜不到，那我飲料也不給你了(鬼臉)"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸學妹，我的飲料還來啊。"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "怎麼可以不陪學妹玩 Bad End..."
+		},
+		{
+			"change_timeline": "timeline-1715093655.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715101529.json",
+		"name": "jk-1-1-2-BE3.json"
+	}
+}

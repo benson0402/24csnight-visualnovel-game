@@ -58,16 +58,16 @@
 			"character": "character-1715089979.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "齁油，就考得有點爛啦嗚嗚\n學長，可以請你當一下ㄋ我的家教嗎，我真的很想把學測考好"
+			"text": "齁油，就考得有點爛啦嗚嗚"
 		},
 		{
-			"character": "character-1715086741.json",
+			"character": "character-1715089979.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": ""
+			"question": "學長，可以請你當一下ㄋ我的家教嗎，我真的很想把學測考好"
 		},
 		{
 			"choice": "當一下學妹的家教好了",

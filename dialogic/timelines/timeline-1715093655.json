@@ -1,0 +1,101 @@
+{
+	"events": [
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "那猜猜看我要說甚麼吧!"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715094355",
+			"index": 0,
+			"name": "choice-1-1-2"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "  (嘴型)(我喜歡你)"
+		},
+		{
+			"choice": "我是爛泥",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1715094139-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1715101468.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "我喜歡你",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1715094139-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1715101456.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "我猜不到",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1715094139-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1715101529.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "[回到更之前的選項...]",
+			"condition": ">=",
+			"definition": "1715094139-648",
+			"event_id": "dialogic_011",
+			"value": "3"
+		},
+		{
+			"change_timeline": "timeline-1715089652.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715093655.json",
+		"name": "jk-1-1-2.json"
+	}
+}

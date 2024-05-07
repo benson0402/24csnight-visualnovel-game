@@ -4,7 +4,118 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "在婉拒學妹的家教請求後"
+			"text": "在婉拒學妹的家教請求後\n文朔開始了他精彩的大學生活，在迎新中認識了很多新的朋友\n也在系排以及系籃中大方光彩，讓很多男生們羨慕他的才華\n不知不覺就到了大一下學期，剛好文朔的國中同學們想要聚個餐\n因為在學校似乎都沒什麼遇到曉杅，文朔也想趁機問一下曉杅的近況\n….\n在聚餐當天餐廳的門口..."
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "嗨，結果你有來參加同學會喔"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "對阿想說剛好沒事所以就來了，怎樣不能來嗎"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "真的假的！（高音） 那麼有心喔"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "對啦對啦，趕快進去了"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " 你上大學過得怎麼樣阿，感覺都沒什麼看到妳"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715101981",
+			"index": 0,
+			"name": "choice-1-2-1"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "還不錯阿，欸最近好像要徵才，你有要去辦宿營嗎"
+		},
+		{
+			"choice": "還好欸，沒有特別想辦",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1715101875",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "感覺可以去一下",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715102012.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715101875",
+			"index": 0,
+			"name": "1-2-1-BE"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "因為[男主]沒參加宿營徵才，把時間都投入在課業上\n所以成功變成了大電神，不過再來一次選擇的話...\n[男主]覺得他會想要參加宿營"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1715101981",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

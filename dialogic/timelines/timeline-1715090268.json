@@ -5,6 +5,147 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": " 在某次家教課上..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…你這邊寫錯了，去平方之後要記得加絕對值，不然你會少一個答案，還有這題..."
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(一副欲哭無淚的表情)"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "算了先休息一下，看你好像讀到有點累了，我去樓下買飲料。"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " 學長等我我也要去!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "你好，我要一杯 …"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "一杯冬瓜青茶微糖微冰，一杯柚香覺醒307微糖微冰。"
+		},
+		{
+			"character": "character-1715092775.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好的，馬上來。"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715092775.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "兩杯飲料的好囉。"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(學妹先搶飲料)"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715093772",
+			"index": 0,
+			"name": "choice-1-1-1"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "學長你想要拿到飲料嗎? 要的話先來玩個小遊戲。"
+		},
+		{
+			"choice": "陪他玩",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715093655.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "學測生玩甚麼溝八小遊戲，認真讀書",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715093692",
+			"index": 0,
+			"name": "1-1-1-BE"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "學長好兇喔QQ"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Bad End... 學妹哭了，怎麼可以讓學妹哭"
+		},
+		{
+			"choice": "回到上個選項",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1715093772",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

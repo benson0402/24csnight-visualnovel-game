@@ -1,0 +1,55 @@
+{
+	"events": [
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " YA，學長猜對了，飲料給你"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "我喜歡你"
+		},
+		{
+			"character": "character-1715089979.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "學...學長，遊戲結束ㄌ"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "摁我知道，我喜歡你"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(學妹高興到哭出來)"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " 但是男主跟學妹顧著交往，導致學妹學測爆炸了，Boom，分手了"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bad End..."
+		},
+		{
+			"change_timeline": "timeline-1715093655.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715101456.json",
+		"name": "jk-1-1-2-BE1.json"
+	}
+}
