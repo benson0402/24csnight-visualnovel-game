@@ -1,0 +1,43 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[男主]和[朋一]在組聚完後一起走去清夜吃了宵夜\n在走回宿舍的路上，[男主]提議一起去7-11買酒去操場聊天\n這時侯[朋一]偷偷牽起[男主]的手"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " …"
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… 我其實，喜歡你很久了..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "我也喜歡你！我們在一起吧"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[男主]和[朋一]成功在一起了\n過了一段時間後，[男主]發現[朋一]整天都和男生朋友混在一起\n無法接受的[男主]常常和[朋一]因為這件事情吵架\n最後[朋一]受不了了選擇和[男主]分手\nBad End"
+		},
+		{
+			"change_timeline": "timeline-1715202522.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715203185.json",
+		"name": "girl1-2-1-1-BE2"
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\n\t一轉眼宿營營期就到了，[男主]和其他工人們開心的跟學弟妹玩後之後，準備要去吃慶功..."
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[男主]辛苦了"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "妳才辛苦了，活動組這次真的很累，而且這次夜教因為下雨沒玩到真的很可惜"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒關係啦，謝謝你"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "慶功宴上大家都玩的很開心\n這時..."
+		},
+		{
+			"character": "character-1715203566.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[男主]，我看你這次迎新美宣組當得不錯，骨骼清秀，是個美宣長人才\n有沒有興趣來當我的美宣長。"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "可是我覺得我的美宣能力沒有很強欸。"
+		},
+		{
+			"character": "character-1715203566.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒事，我幫你找了[朋2]，美宣能力軋軋頂。\n這次你不挺我，我們就不是兄弟。"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好啦我當。"
+		},
+		{
+			"change_timeline": "timeline-1715203661.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715202925.json",
+		"name": "main-2-2-1"
+	}
+}

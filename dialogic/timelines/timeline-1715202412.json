@@ -1,0 +1,109 @@
+{
+	"events": [
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好吧..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "怎麼了，幹麻突然問[朋1]的事"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒有啦，好奇問一下而已"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒事的話我就先走了，掰"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "恩，掰"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "過了一段時間，在某一次總驗前幾天的組聚\n因為[男主]跟[朋1]負責的活動組道具只差一點就完成\n在美宣長宣佈下班之後，[男主]跟[朋1]決定留下來做完再走"
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "噎～終於做完了～噎～"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "對阿，現在都已經 3:30 了"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "兩人收拾了系窩的環境之後，往二餐的方向走去"
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸要不要一起吃個宵夜"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "要去哪吃阿"
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "恩～我想去吃永豆"
+		},
+		{
+			"choice": "好走阿！我也想去吃永豆",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715202522.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "蛤我想吃 711 就好",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715202904.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715202412.json",
+		"name": "main-1-2-3"
+	}
+}

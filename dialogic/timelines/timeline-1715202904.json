@@ -1,0 +1,19 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "在 711 買完宵夜後，兩人就回到各自的宿舍了\n之後不知道為什麼，[朋1]回覆訊息的速度就越來越慢了\n[男主]也沒有特別在乎\n…"
+		},
+		{
+			"change_timeline": "timeline-1715202925.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715202904.json",
+		"name": "main-1-2-3-bridge"
+	}
+}

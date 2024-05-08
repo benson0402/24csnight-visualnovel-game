@@ -1,0 +1,43 @@
+{
+	"events": [
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "不用啦，他們也想活動想得很辛苦\n這些小事情我們做完就好"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "可是這樣你又要忙到半夜 3. "
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "真的不用啦，你去吵架還不如來幫我做"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[朋1]因為這件事對[男主]好感度大減\n[男主]從此一蹶不振...\nBadEND"
+		},
+		{
+			"change_timeline": "timeline-1715202522.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715203184.json",
+		"name": "girl1-2-1-1-BE3"
+	}
+}

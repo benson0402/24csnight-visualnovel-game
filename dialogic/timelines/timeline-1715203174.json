@@ -1,0 +1,25 @@
+{
+	"events": [
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… 笨蛋直男"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bad End"
+		},
+		{
+			"change_timeline": "timeline-1715202522.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715203174.json",
+		"name": "girl1-2-1-1-BE1"
+	}
+}

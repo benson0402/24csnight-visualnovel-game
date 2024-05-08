@@ -1,0 +1,96 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "在接下來系露營的準備中\n因為[男主]也不太確定一個好的美宣長是什麼樣子，很常不知道自己該做什麼\n所以就只好在組聚的時後，偶爾幫忙學弟妹做道具、關心他們的生活\n然後就開始做自己的事，甚至也會蹺掉組聚去跟朋友們吃宵夜、打麻將跟保齡球\n但是[朋2]卻一聲不吭默默完成了很多事，不只很注意細節也很貼心關心[男主]的狀況\n時間轉眼系露營就結束了，[朋2]喝醉時偷偷拉了[男主]一把..."
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "怎麼了"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "這次營隊辛苦你了，你真的幫了我很多忙。"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "哪有，你才是最辛苦的，你做的道具小隊員都很喜歡，我只是幫你處理一些行政上的事而已。"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " 這樣就真的幫了我很多忙。"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "對了... 那，我們要不要約一次的美宣長慶功。\n"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "就我跟你。"
+		},
+		{
+			"choice": "好啊，找一天我們兩個一起去",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715204510.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "好啊，但是人多熱鬧，我們也問問其他人要不要一起",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715204503.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "抱歉，我跟[正宮]約好了，這段時間可能不行 ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715204545.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715203813.json",
+		"name": "main-2-2-3"
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\n隨著宿營的準備，[男主]跟[朋1]的感情越來越好\n他們也很常組聚完一起吃宵夜，也會分享生活大小事，偷偷約出去玩\n…\n在某次組聚的時候..."
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸[男主]，那邊那把剪刀幫我拿過來。"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "你是說這把嗎，給你。"
+		},
+		{
+			"character": "character-1715202790.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "可惡的活動組，這次又開了一堆道具，這下子要做不玩了"
+		},
+		{
+			"choice": "加油，多喝熱水",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1715203083-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1715203174.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "沒關係我們組聚完再一起去吃宵夜",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1715203083-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1715203185.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "我去幫你跟活動組砍道具",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1715203083-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1715203184.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "[回到更前面...]",
+			"condition": ">=",
+			"definition": "1715203083-648",
+			"event_id": "dialogic_011",
+			"value": "3"
+		},
+		{
+			"change_timeline": "timeline-1715202412.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715202522.json",
+		"name": "girl1-2-1-1"
+	}
+}

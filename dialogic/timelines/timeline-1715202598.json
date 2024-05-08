@@ -1,0 +1,37 @@
+{
+	"events": [
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\n你明明就騙我，誰會跟一般朋友每天都用賴瘋狂聊天阿"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "你真的很吵欸"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "……\n為什麼要罵我，我們明明...\n明明也曾經那麼好過"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[正宮]心態爆炸，一直干擾[男主]的感情，最後大家都沒好下場"
+		},
+		{
+			"change_timeline": "timeline-1715102012.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715202598.json",
+		"name": "main-1-2-2-BE"
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(雖然沒多想什麼就接下系露營美宣長，但我真的跟[朋2]不怎麼熟)\n(不知道到時候能不能好好合作...)"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "在辦完迎新之後，因為離系露營籌辦還有一段時間，[男主]就沒多想跟[朋2]相處的事\n這段時間，[正宮]跟[男主]也偶而會互相分享生活上的瑣事，雖然沒有特別發生什麼\n但隱隱之中，兩人似乎找回國高中時彼此的頻率...\n不過在這個無時無刻都有考試跟作業的資工系，[正宮]和[男主]也沒什麼時間一直聊天\n在解決完數不清的死線之後，時間就到了系露營的籌備..."
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "嗨?"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "嗨"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "超好笑，也太尷尬了吧"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸~明明是你自己先那麼尷尬的"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "哪有，是妳一直在傻笑，害我不知道要講什麼"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好啦，接下來就一起努力吧！"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "恩"
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715203661.json",
+		"name": "main-2-2-2"
+	}
+}

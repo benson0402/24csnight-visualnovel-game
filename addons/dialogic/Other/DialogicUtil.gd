@@ -864,6 +864,7 @@ static func get_flat_folders_list(include_folders: bool = true) -> Dictionary:
 			timeline_folder_breakdown[timeline] = structure['Timelines'][timeline]
 
 	for character in structure['Characters'].keys():
+		print(character)
 		if ".json" in character:
 			character_folder_breakdown[structure['Characters'][character]['path']] = structure['Characters'][character]
 		elif include_folders:

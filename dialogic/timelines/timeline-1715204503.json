@@ -1,0 +1,19 @@
+{
+	"events": [
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "不要，為什麼我幫了你那麼多你還不願意跟我單獨出去 QQ\nBADEND"
+		},
+		{
+			"change_timeline": "timeline-1715203813.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715204503.json",
+		"name": "main-2-2-3-BE"
+	}
+}
