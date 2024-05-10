@@ -124,6 +124,7 @@ func move_to_position(position_offset):
 		'center_right': Vector2(reference.x/7, 0),
 		'center_left': Vector2(-(reference.x/7), 0)
 		}
+	print(positions)
 	
 	direction = position_offset
 	rect_position = positions[position_offset]

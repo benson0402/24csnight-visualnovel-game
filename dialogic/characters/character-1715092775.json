@@ -8,14 +8,18 @@
 	"name": "clerk",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
+	"offset_x": 110,
 	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://portraits/店員/一般站姿.png"
+		},
+		{
+			"name": "工三",
+			"path": "res://scenes/工三.png"
 		}
 	],
-	"scale": 100,
-	"theme": ""
+	"scale": 125,
+	"theme": "theme-1714855254.cfg"
 }

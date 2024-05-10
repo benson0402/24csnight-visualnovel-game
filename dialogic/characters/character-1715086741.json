@@ -8,14 +8,42 @@
 	"name": "man1",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
+	"offset_x": 110,
 	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://portraits/男主/一般站姿.png"
+		},
+		{
+			"name": "做錯事",
+			"path": "res://portraits/男主/做錯事.png"
+		},
+		{
+			"name": "尷尬",
+			"path": "res://portraits/男主/尷尬.png"
+		},
+		{
+			"name": "拿球",
+			"path": "res://portraits/男主/拿球.png"
+		},
+		{
+			"name": "生氣",
+			"path": "res://portraits/男主/生氣.png"
+		},
+		{
+			"name": "害羞",
+			"path": "res://portraits/男主/害羞.png"
+		},
+		{
+			"name": "拿水瓶",
+			"path": "res://portraits/男主/拿水瓶.png"
+		},
+		{
+			"name": "邱臉",
+			"path": "res://portraits/男主/邱臉.png"
 		}
 	],
-	"scale": 100,
-	"theme": ""
+	"scale": 150,
+	"theme": "theme-1714855254.cfg"
 }

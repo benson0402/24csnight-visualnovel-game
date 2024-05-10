@@ -8,14 +8,38 @@
 	"name": "jk",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
+	"offset_x": 110,
 	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://portraits/學妹1/一般站姿.png"
+		},
+		{
+			"name": "笑",
+			"path": "res://portraits/學妹1/笑.png"
+		},
+		{
+			"name": "裝可愛",
+			"path": "res://portraits/學妹1/裝可愛.png"
+		},
+		{
+			"name": "拿飲料難過",
+			"path": "res://portraits/學妹1/拿飲料難過.png"
+		},
+		{
+			"name": "哭",
+			"path": "res://portraits/學妹1/哭.png"
+		},
+		{
+			"name": "拿飲料開心",
+			"path": "res://portraits/學妹1/拿飲料開心.png"
+		},
+		{
+			"name": "害羞",
+			"path": "res://portraits/學妹1/害羞.png"
 		}
 	],
-	"scale": 100,
-	"theme": ""
+	"scale": 150,
+	"theme": "theme-1714855254.cfg"
 }

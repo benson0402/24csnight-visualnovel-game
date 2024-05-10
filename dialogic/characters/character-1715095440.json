@@ -1,21 +1,37 @@
 {
 	"color": "#ffffffff",
 	"description": "",
-	"display_name": "曉杅",
+	"display_name": "曉妤",
 	"display_name_bool": true,
 	"id": "character-1715095440.json",
 	"mirror_portraits": false,
 	"name": "main_girl",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
+	"offset_x": 110,
 	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://portraits/女主/一般站姿.png"
+		},
+		{
+			"name": "尷尬",
+			"path": "res://portraits/女主/尷尬.png"
+		},
+		{
+			"name": "快哭",
+			"path": "res://portraits/女主/快哭.png"
+		},
+		{
+			"name": "生氣",
+			"path": "res://portraits/女主/生氣.png"
+		},
+		{
+			"name": "笑得開心",
+			"path": "res://portraits/女主/笑得開心.png"
 		}
 	],
-	"scale": 100,
-	"theme": ""
+	"scale": 150,
+	"theme": "theme-1714855254.cfg"
 }
