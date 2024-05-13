@@ -493,7 +493,7 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "算了學妹就是過去式，我要在大學另闢戰場",
+			"choice": "我要在大學另闢戰場",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
