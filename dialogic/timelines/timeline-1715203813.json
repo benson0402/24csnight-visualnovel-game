@@ -40,7 +40,13 @@
 			"character": "character-1715203707.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "對了... 那，我們要不要約一次的美宣長慶功。\n"
+			"text": "對了... 那，我們要不要約一次的美宣長慶功。"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715586864",
+			"index": 0,
+			"name": ""
 		},
 		{
 			"character": "character-1715203707.json",

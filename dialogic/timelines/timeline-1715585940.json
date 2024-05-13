@@ -1,0 +1,25 @@
+{
+	"events": [
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好阿，我也有點想看一下這間百貨公司有什麼\n走，我們一起去逛！"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "在逛街途中，後面突然聽到熟悉的聲音..."
+		},
+		{
+			"change_timeline": "timeline-1715585966.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715585940.json",
+		"name": "girl2-3-1-1-2"
+	}
+}

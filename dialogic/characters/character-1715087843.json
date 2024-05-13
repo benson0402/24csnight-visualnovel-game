@@ -8,34 +8,22 @@
 	"name": "man_friend2",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 110,
+	"offset_x": 90,
 	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://portraits/朋友2/一般.png"
+			"path": "res://portraits/路人2/一般.png"
 		},
 		{
-			"name": "可惜(_)",
-			"path": "res://portraits/朋友2/可惜(_).png"
+			"name": "嘲諷",
+			"path": "res://portraits/路人2/嘲諷.png"
 		},
 		{
-			"name": "開心(1)",
-			"path": "res://portraits/朋友2/開心(1).png"
-		},
-		{
-			"name": "可惜(_)(1)",
-			"path": "res://portraits/朋友2/可惜(_)(1).png"
-		},
-		{
-			"name": "開心",
-			"path": "res://portraits/朋友2/開心.png"
-		},
-		{
-			"name": "一般(1)",
-			"path": "res://portraits/朋友2/一般(1).png"
+			"name": "受打擊",
+			"path": "res://portraits/路人2/受打擊.png"
 		}
 	],
-	"scale": 175,
+	"scale": 150,
 	"theme": "theme-1714855254.cfg"
 }

@@ -1,0 +1,139 @@
+{
+	"events": [
+		{
+			"character": "character-1715586086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸這不是[朋2]和[男主]嗎，你們怎麼會在這阿"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "哦沒什麼啦，我們是來看排球少年的"
+		},
+		{
+			"character": "character-1715586086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "這麼好喔， 阿就只有你們兩個而已嗎"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "嗯..."
+		},
+		{
+			"character": "character-1715586086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "你們是要看下個場次的喔，會不會我剛好就坐你們旁邊阿"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "三人拿出票根比對發現[朋2]剛好被[男主]跟[學長]夾在中間..."
+		},
+		{
+			"character": "character-1715586086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "也太剛好了吧哈哈，那等下見啦掰"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "從巧遇[學長]之後，[男主]發現[朋2]似乎比起剛剛沒什麼活力\n於是[男主]打算好好關心一下[朋2]..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "怎麼了"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒...沒事啦"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸妳跟那學長熟嗎"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "之前還算聊過一點天，只是沒到那麼熟，對他還蠻有好感的"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "恩...\n走吧，感覺時間也快到了"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "兩人往影廳的方向前進，在路上也恰好碰到學長\n一路上，[朋2]跟學長像是有某種頻率，聊的話題讓[男主]很難插上口\n在看完電影之後，[朋2]也比較積極的和學長分享電影內容，[男主]只能在一旁附和\n這時..."
+		},
+		{
+			"character": "character-1715586086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸欸你們接下來要幹麻阿"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "我們可能會要吃個飯嗎"
+		},
+		{
+			"character": "character-1715586086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "偷約不揪喔，我也要"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好阿"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "就這樣，三人一起吃了個飯\n最後也沒什麼特別的，就互相道別回家去了..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好奇怪喔..."
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "為什麼，為什麼[朋2]都不回我...\n為什麼，為什麼[朋2]都不理我...\n為什麼，為什麼[朋2]都已讀我...\nBADEND..."
+		},
+		{
+			"change_timeline": "timeline-1715203813.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715585966.json",
+		"name": "girl2-3-1-2"
+	}
+}

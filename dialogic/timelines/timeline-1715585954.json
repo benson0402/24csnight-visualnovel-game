@@ -1,0 +1,25 @@
+{
+	"events": [
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "好阿，好久沒玩這些遊戲了，我想玩空氣曲棍球！\n走，我們一起去！"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "在前往遊戲廳的途中，後面突然聽到熟悉的聲音..."
+		},
+		{
+			"change_timeline": "timeline-1715585966.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715585954.json",
+		"name": "girl2-3-1-1-3"
+	}
+}

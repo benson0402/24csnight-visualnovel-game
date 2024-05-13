@@ -1,0 +1,56 @@
+{
+	"events": [
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "恩..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "餐桌上，兩人的氣氛也沒有變化許多\n依舊是那種曖昧不明的氛圍\n兩人快速的吃完了晚餐\n…"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "欸，你是怎麼過來的阿，好像忘記問妳了"
+		},
+		{
+			"character": "character-1715095440.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "喔...我是搭公車來的"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "現在那麼晚，還是我騎車載妳一起回學校",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1715587263.json",
+		"name": "main-3-2-2"
+	}
+}

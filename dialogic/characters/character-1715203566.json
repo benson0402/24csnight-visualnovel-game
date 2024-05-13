@@ -8,14 +8,22 @@
 	"name": "zichen",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
+	"offset_x": 110,
 	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://portraits/營宿總召/一般站姿.png"
+		},
+		{
+			"name": "嚴肅",
+			"path": "res://portraits/營宿總召/嚴肅.png"
+		},
+		{
+			"name": "開心",
+			"path": "res://portraits/營宿總召/開心.png"
 		}
 	],
-	"scale": 100,
+	"scale": 150,
 	"theme": ""
 }

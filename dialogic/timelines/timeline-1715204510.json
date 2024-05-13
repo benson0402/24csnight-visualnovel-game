@@ -4,7 +4,67 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
+			"text": "[男主]和[朋2]兩人最後一起決定先去看最近很熱門的排球少年，再來吃慶功\n到了約定的當天...\n[朋2]從遠處走來，一身可愛又漂亮的打扮讓[男主]一時之間說不出話來"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
 			"text": "..."
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "嗯? 怎麼了，我臉上有東西嗎"
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "沒事，只是看妳今天好像特別好看"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "超好笑，哪有那麼誇張啦\n走，我們先去領票吧"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "兩人就這樣有說有笑的往電影院櫃台走去\n領完票後，離電影開始還有一段時間，[男主]也不想浪費這個大好機會培養感情"
+		},
+		{
+			"character": "character-1715203707.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "好無聊喔～現在要做什麼阿"
+		},
+		{
+			"choice": "要先去買個爆米花或飲料嗎",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "還是我們先去其他樓層逛一下",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "不然我們去旁邊的遊戲廳玩",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		}
 	],
 	"metadata": {
