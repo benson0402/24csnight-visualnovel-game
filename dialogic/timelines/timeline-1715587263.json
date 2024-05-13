@@ -178,14 +178,14 @@
 			"question": ""
 		},
 		{
-			"choice": "現在那麼晚，還是我騎車載妳一起回學校",
+			"choice": "我騎車載妳一起回學校",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1715587332.json",
 			"event_id": "dialogic_020"
 		},
 		{
