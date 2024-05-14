@@ -28,7 +28,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "…\n一轉眼宿營營期就到了，文碩和其他工人們開心的跟學弟妹玩後之後，準備要去吃慶功..."
+			"text": "…\n一轉眼宿營營期就到了，文朔和其他工人們開心的跟學弟妹玩後之後，準備要去吃慶功..."
 		},
 		{
 			"animation": "[Default]",
@@ -54,7 +54,7 @@
 			"character": "character-1715095440.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "文碩辛苦了"
+			"text": "文朔辛苦了"
 		},
 		{
 			"animation": "[Default]",
@@ -202,7 +202,7 @@
 			"character": "character-1715203566.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "文碩，我看你這次迎新美宣組當得不錯，骨骼清秀，是個美宣長人才\n有沒有興趣來當我的美宣長。"
+			"text": "文朔，我看你這次迎新美宣組當得不錯，骨骼清秀，是個美宣長人才\n有沒有興趣來當我的美宣長。"
 		},
 		{
 			"animation": "[Default]",
