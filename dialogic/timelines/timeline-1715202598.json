@@ -142,11 +142,30 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[正宮]心態爆炸，一直干擾[男主]的感情，最後大家都沒好下場"
+			"text": "[正宮]傷心欲絕，[男主]的情緒也深受干擾，最後大家都沒好下場\nBad End..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"change_timeline": "timeline-1715102012.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

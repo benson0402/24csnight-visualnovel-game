@@ -178,13 +178,26 @@
 		},
 		{
 			"character": "",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "Bad End..."
+			"question": "Bad End..."
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"change_timeline": "timeline-1715093655.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

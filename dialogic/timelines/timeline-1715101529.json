@@ -76,7 +76,30 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "怎麼可以不陪學妹玩 Bad End..."
+			"text": "怎麼可以不陪學妹玩"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Bad End..."
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715093655.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1715093655.json",

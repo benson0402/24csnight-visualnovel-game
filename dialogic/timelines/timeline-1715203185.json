@@ -152,7 +152,30 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[男主]和[朋一]成功在一起了\n過了一段時間後，[男主]發現[朋一]整天都和男生朋友混在一起\n無法接受的[男主]常常和[朋一]因為這件事情吵架\n最後[朋一]受不了了選擇和[男主]分手\nBad End"
+			"text": "[男主]和[朋一]成功在一起了\n過了一段時間後，[男主]發現[朋一]整天都和男生朋友混在一起\n無法接受的[男主]常常和[朋一]因為這件事情吵架\n最後[朋一]受不了了選擇和[男主]分手"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Bad End..."
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715202522.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1715202522.json",

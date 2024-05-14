@@ -557,9 +557,19 @@
 		},
 		{
 			"character": "character-1715086914.json",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "Default",
-			"text": "題目好像是說冰淇淋店最少需準備 n 種不同口味的冰淇淋，才能滿足廣告所稱「任選兩球不同口味冰淇淋的組合數超過100種」。\n試問來店顧客從 n 桶中任選兩球(可為同一口味)共有幾種方法?\n你答案是選多少阿"
+			"question": "題目好像是說\n冰淇淋店最少需準備 n 種不同口味的冰淇淋，才能滿足廣告所稱「任選兩球不同口味冰淇淋的組合數超過100種」。試問來店顧客從 n 桶中任選兩球(可為同一口味)共有幾種方法?"
+		},
+		{
+			"choice": "101",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"animation": "[Default]",
@@ -582,20 +592,50 @@
 			"z_index": 0
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
 			"character": "character-1715086741.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "邱臉",
-			"question": "我好像是選"
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
-			"choice": "101",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "101 嗎"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"anchor_id": "anchor-1715088579",
@@ -609,6 +649,72 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "105 嗎"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"anchor_id": "anchor-1715088579",
 			"event_id": "dialogic_016"
 		},
@@ -618,6 +724,72 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "115 嗎"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"anchor_id": "anchor-1715088579",
@@ -631,6 +803,72 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "120 嗎"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"change_timeline": "timeline-1715088553.json",
 			"event_id": "dialogic_020"
 		},
@@ -642,11 +880,97 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1715086741.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "225 嗎"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"anchor_id": "anchor-1715088579",
 			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"event_id": "dialogic_015",
@@ -800,13 +1124,26 @@
 		},
 		{
 			"character": "",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "Bad End...\n文朔因為連簡單的數學都會算錯從此一蹶不振"
+			"question": "文朔因為連簡單的數學都會算錯從此一蹶不振\nBad End..."
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"anchor_id": "anchor-1715088661",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

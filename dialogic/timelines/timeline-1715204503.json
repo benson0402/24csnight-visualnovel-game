@@ -24,7 +24,7 @@
 			"character": "character-1715203707.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "不要，為什麼我幫了你那麼多你還不願意跟我單獨出去 QQ\nBADEND"
+			"text": "不要，為什麼我幫了你那麼多你還不願意跟我單獨出去 QQ"
 		},
 		{
 			"animation": "[Default]",
@@ -45,6 +45,29 @@
 			},
 			"type": 1,
 			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Bad End..."
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1715203813.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1715203813.json",

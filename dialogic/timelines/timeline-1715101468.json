@@ -36,17 +36,30 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "但是男主跟學妹顧著交往，導致學妹學測爆炸了，Boom，分手了"
+			"text": "於是[男主]跟學妹就在一起了\n不過因為他們只顧著交往戀愛，導致學妹學測爆炸了，Boom，分手了"
 		},
 		{
 			"character": "",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "Bad End..."
+			"question": "Bad End..."
+		},
+		{
+			"choice": "[回到上個選項...]",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"change_timeline": "timeline-1715093655.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
