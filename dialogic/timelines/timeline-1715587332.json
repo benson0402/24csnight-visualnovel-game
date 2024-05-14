@@ -300,7 +300,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[男主]躺在了[正宮]的大腿上"
+			"text": "文碩躺在了小妤的大腿上"
 		},
 		{
 			"background": "res://scenes/星空.jpg",
@@ -514,7 +514,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[男主]突然起身...\n含情脈脈的看著[正宮]..."
+			"text": "文碩突然起身...\n含情脈脈的看著小妤..."
 		},
 		{
 			"animation": "[Default]",

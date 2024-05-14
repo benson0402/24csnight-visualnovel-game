@@ -28,7 +28,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "…\n一轉眼宿營營期就到了，[男主]和其他工人們開心的跟學弟妹玩後之後，準備要去吃慶功..."
+			"text": "…\n一轉眼宿營營期就到了，文碩和其他工人們開心的跟學弟妹玩後之後，準備要去吃慶功..."
 		},
 		{
 			"animation": "[Default]",
@@ -54,7 +54,7 @@
 			"character": "character-1715095440.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[男主]辛苦了"
+			"text": "文碩辛苦了"
 		},
 		{
 			"animation": "[Default]",
@@ -202,7 +202,7 @@
 			"character": "character-1715203566.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[男主]，我看你這次迎新美宣組當得不錯，骨骼清秀，是個美宣長人才\n有沒有興趣來當我的美宣長。"
+			"text": "文碩，我看你這次迎新美宣組當得不錯，骨骼清秀，是個美宣長人才\n有沒有興趣來當我的美宣長。"
 		},
 		{
 			"animation": "[Default]",
@@ -294,7 +294,7 @@
 			"character": "character-1715203566.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "沒事，我幫你找了[朋2]，美宣能力軋軋頂。\n這次你不挺我，我們就不是兄弟。"
+			"text": "沒事，我幫你找了小晴，美宣能力軋軋頂。\n這次你不挺我，我們就不是兄弟。"
 		},
 		{
 			"animation": "[Default]",
